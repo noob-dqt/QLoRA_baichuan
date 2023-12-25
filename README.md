@@ -1,2 +1,3 @@
 # QLoRA_baichuan
-from Firefly
+From Firefly, Modified by DQT
+link of Firefly: [Firefly](https://github.com/yangjianxin1/Firefly)
